@@ -24,6 +24,8 @@ void DisplayAllTask::on_btnDisplay_clicked()
     QDateTime toDate       = ui->dtToDate->dateTime();
     QDateTime specificDate = ui->dtSpecificDate->dateTime();
 
+    qDebug() << specificDate;
+
     string fromStrDate = fromDate.toString("yyyy-MM-dd").toStdString();
     string toStrDate   = toDate.toString("yyyy-MM-dd").toStdString();
     string specificStrDate   = specificDate.toString("yyyy-MM-dd").toStdString();
@@ -89,5 +91,8 @@ void DisplayAllTask::on_btnReset_clicked()
     ui->dtFromDate->clear();
     ui->dtToDate->clear();
     ui->dtSpecificDate->clear();
+    ui->dtFromDate->setDateTime(QDateTime(QDate(2000,1,1),QTime(0,0)));
+    ui->dtSpecificDate->setDateTime(QDateTime(QDate(2000,1,1),QTime(0,0)));
+    ui->dtToDate->setDateTime(QDateTime(QDate(2000,1,1),QTime(0,0)));
 }
 
