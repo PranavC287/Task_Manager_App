@@ -1,0 +1,9 @@
+C:/Pranav/TASK_MANAGER4/Task_Manager_Application-feature-initial_setup/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Task_Manager_Application.dir
+C:/Pranav/TASK_MANAGER4/Task_Manager_Application-feature-initial_setup/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Pranav/TASK_MANAGER4/Task_Manager_Application-feature-initial_setup/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Pranav/TASK_MANAGER4/Task_Manager_Application-feature-initial_setup/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Pranav/TASK_MANAGER4/Task_Manager_Application-feature-initial_setup/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Pranav/TASK_MANAGER4/Task_Manager_Application-feature-initial_setup/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Pranav/TASK_MANAGER4/Task_Manager_Application-feature-initial_setup/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Pranav/TASK_MANAGER4/Task_Manager_Application-feature-initial_setup/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Task_Manager_Application_autogen_timestamp_deps.dir
+C:/Pranav/TASK_MANAGER4/Task_Manager_Application-feature-initial_setup/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/Task_Manager_Application_autogen.dir
